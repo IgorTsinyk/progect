@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "image": "1.jpg",
+        "name": "Торт 1",
+        "price": 100,
+        "article": "T1",
+        "available": true,
+        "category": "Торти"
+        
+      },
+      {
+        "image": "2.jpg",
+        "name": "Торт 2",
+        "price": 200,
+        "article": "T2",
+        "available": true, 
+        "category": "Торти"
+        
+      },
+      {
+        "image": "3.jpg",
+        "name": "Торт 3",
+        "price": 300,
+        "article": "T3",
+        "available": false,
+        "category": "Торти"
+        
+      },
+      {
+        "image": "4.jpg",
+        "name": "Печиво 4",
+        "price": 400,
+        "article": "T4",
+        "available": true,
+        "category": "Печиво"
+       
+      },
+      {
+        "image": "5.jpg",
+        "name": "Печиво 5",
+        "price": 500,
+        "article": "T5",
+        "available": false,
+        "category": "Печиво"
+        
+      },
+      {
+        "image": "6.jpg",
+        "name": "Печиво 6",
+        "price": 600,
+        "article": "T6",
+        "available": true,
+        "category": "Печиво"
+        
+      }
+    ]
+  }
